@@ -1,0 +1,4 @@
+Mhoho informaci a popisu fukcí programu take ze ve verzi 1.1, na mám starém GitHub ůčtu
+
+https://github.com/Sifrovaci-Programy-2/Sifrovaci-Programy/tree/main/Sifrovaci_program_GUI/Sifrovaci_program_GUI_PowerShell_verze_1.1
+
